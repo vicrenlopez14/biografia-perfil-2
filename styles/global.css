@@ -1,0 +1,16 @@
+* {
+    text-decoration: none;
+}
+
+:root {
+    --primary: #00352F;
+    --secondary: #CEDC00;
+    --background: #032B38;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    background-color: var(--background);
+}
+
